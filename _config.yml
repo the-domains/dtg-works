@@ -1,0 +1,28 @@
+name: DTG works
+favicon: null
+layout_spectrum: 0.6179952404927462
+typography_spectrum: 0.6195598575286567
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2571908487007022
+  lightness: 0.7487832824699581
+  saturation: 0.5157996728084981
+  rhythmicContrast: 0.2914656805805862
+purpose: []
