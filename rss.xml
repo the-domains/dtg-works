@@ -4,7 +4,7 @@
         <description><![CDATA[DTG works]]></description>
         <link>http://www.dtgworks.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 10:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 10:19:46 GMT</lastBuildDate>
         <atom:link href="http://www.dtgworks.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Printing on Demand]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.dtgworks.com/0b25b976-5c08-41ce-a991-5985784374e7/index.html</link>
             <guid isPermaLink="false">0b25b976-5c08-41ce-a991-5985784374e7</guid>
             <pubDate>Wed, 10 Feb 2016 10:17:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Printing on demand</p>]]></description>
-            <link>http://www.dtgworks.com/830402ee-f2c2-4c0e-aa7d-032ea2268856/index.html</link>
-            <guid isPermaLink="false">830402ee-f2c2-4c0e-aa7d-032ea2268856</guid>
-            <pubDate>Wed, 10 Feb 2016 09:53:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
