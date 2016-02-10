@@ -1,7 +1,7 @@
 name: DTG works
 favicon: null
-layout_spectrum: 0.6179952404927462
-typography_spectrum: 0.6195598575286567
+layout_spectrum: 0.1083
+typography_spectrum: 0.60432
 cta:
   domain: null
   bucket: null
