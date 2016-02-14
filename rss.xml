@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[DTG works]]></title>
-        <description><![CDATA[DTG works]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[On demand t-shirt printing.]]></title>
+        <description><![CDATA[On demand t-shirt printing.]]></description>
+        <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 20:28:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 20:43:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbbec98e-7555-42e2-809d-aebff3b31b59.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/d05ca911-055f-4cce-b9e9-44a5659bb896/index.html</link>
+            <guid isPermaLink="false">d05ca911-055f-4cce-b9e9-44a5659bb896</guid>
+            <pubDate>Sun, 14 Feb 2016 20:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa61d085-bf5b-40fb-923b-86eaeb5a8e35.jpg">]]></description>
-            <link>undefined60b25728-0f1f-4d12-b499-c69ef407eed5/index.html</link>
+            <link>https://thegrid.ai/dtg-works/60b25728-0f1f-4d12-b499-c69ef407eed5/index.html</link>
             <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
             <pubDate>Sun, 14 Feb 2016 20:28:13 GMT</pubDate>
         </item>
