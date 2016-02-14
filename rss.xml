@@ -4,21 +4,21 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 21:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 21:18:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Work]]></title>
+            <description><![CDATA[<article><h1>New Work</h1><p>New production in works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86c7e8bde5c914c214354fec7ae0a9e9c180640.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dtg-works/60b25728-0f1f-4d12-b499-c69ef407eed5/index.html</link>
+            <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
+            <pubDate>Sun, 14 Feb 2016 21:17:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/418d846f-727e-40db-a0b9-442de2268ebb.jpg">]]></description>
             <link>https://thegrid.ai/dtg-works/d05ca911-055f-4cce-b9e9-44a5659bb896/index.html</link>
             <guid isPermaLink="false">d05ca911-055f-4cce-b9e9-44a5659bb896</guid>
             <pubDate>Sun, 14 Feb 2016 21:07:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa61d085-bf5b-40fb-923b-86eaeb5a8e35.jpg">]]></description>
-            <link>https://thegrid.ai/dtg-works/60b25728-0f1f-4d12-b499-c69ef407eed5/index.html</link>
-            <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
-            <pubDate>Sun, 14 Feb 2016 20:46:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
