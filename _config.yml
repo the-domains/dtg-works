@@ -1,7 +1,7 @@
 name: DTG works
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.60432
+typography_spectrum: 0.26775
 title: On demand t-shirt printing.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#171a20'
     - '#c0c9d5'
     - '#914858'
-  brandStrength: 0.2571908487007022
-  lightness: 0.7487832824699581
+  brandStrength: 0.875
+  lightness: 0.125
   saturation: 0.5157996728084981
   rhythmicContrast: 0.2914656805805862
 purpose: []
