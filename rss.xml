@@ -4,7 +4,7 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 22:36:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 22:38:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Coach Oz Project]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/dtg-works/d05ca911-055f-4cce-b9e9-44a5659bb896/index.html</link>
             <guid isPermaLink="false">d05ca911-055f-4cce-b9e9-44a5659bb896</guid>
             <pubDate>Sun, 14 Feb 2016 22:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6698f5-d322-42a4-8143-770893229d96.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/retaining-detail-in-reduced-scale-designs/index.html</link>
+            <guid isPermaLink="false">415be343-77be-4240-a01b-d786ca81a0e9</guid>
+            <pubDate>Sun, 14 Feb 2016 22:37:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
