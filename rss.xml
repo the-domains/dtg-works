@@ -4,14 +4,21 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 22:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 22:29:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Coach Oz Project]]></title>
-            <description><![CDATA[<article><h1>Coach Oz Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/647cb084d54b484f3892f8ccced948a005547525.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Coach Oz Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/606b6c3cc5a9571f5753ae638012ab6f83666c10.jpg"></article>]]></description>
             <link>https://thegrid.ai/dtg-works/d05ca911-055f-4cce-b9e9-44a5659bb896/index.html</link>
             <guid isPermaLink="false">d05ca911-055f-4cce-b9e9-44a5659bb896</guid>
             <pubDate>Sun, 14 Feb 2016 22:27:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d43ec6e5-d421-4690-97f7-0b9f9d3aa5e7.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/42f49427-7a1c-448e-a0af-19cfd4a65b54/index.html</link>
+            <guid isPermaLink="false">42f49427-7a1c-448e-a0af-19cfd4a65b54</guid>
+            <pubDate>Sun, 14 Feb 2016 22:29:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
