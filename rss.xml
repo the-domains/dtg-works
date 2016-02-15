@@ -4,11 +4,11 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 23:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 23:08:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Work]]></title>
-            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86c7e8bde5c914c214354fec7ae0a9e9c180640.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84793f94c8d708e38748625afd0e90e845e7c00e.jpg"></article>]]></description>
             <link>https://thegrid.ai/dtg-works/new-work/index.html</link>
             <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
             <pubDate>Mon, 15 Feb 2016 23:00:13 GMT</pubDate>
@@ -26,20 +26,6 @@
             <link>https://thegrid.ai/dtg-works/1b995b6b-96c8-4896-a1f5-74faa1aa85e5/index.html</link>
             <guid isPermaLink="false">1b995b6b-96c8-4896-a1f5-74faa1aa85e5</guid>
             <pubDate>Mon, 15 Feb 2016 22:58:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de80096-9de2-4241-8f1b-152e46195e4c.jpg">]]></description>
-            <link>https://thegrid.ai/dtg-works/136f6ff2-3f65-40a1-a987-d9e21d0a5f61/index.html</link>
-            <guid isPermaLink="false">136f6ff2-3f65-40a1-a987-d9e21d0a5f61</guid>
-            <pubDate>Mon, 15 Feb 2016 23:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae6698f5-d322-42a4-8143-770893229d96.jpg">]]></description>
-            <link>https://thegrid.ai/dtg-works/retaining-detail-in-reduced-scale-designs/index.html</link>
-            <guid isPermaLink="false">415be343-77be-4240-a01b-d786ca81a0e9</guid>
-            <pubDate>Sun, 14 Feb 2016 22:42:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
