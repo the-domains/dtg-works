@@ -4,8 +4,15 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 22:54:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de80096-9de2-4241-8f1b-152e46195e4c.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/136f6ff2-3f65-40a1-a987-d9e21d0a5f61/index.html</link>
+            <guid isPermaLink="false">136f6ff2-3f65-40a1-a987-d9e21d0a5f61</guid>
+            <pubDate>Mon, 15 Feb 2016 22:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coach Oz Project]]></title>
             <description><![CDATA[<article><h1>Coach Oz Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2de7acaf2c9b8388c0bbeeb4ecca5ff378716528.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[New Work]]></title>
-            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86c7e8bde5c914c214354fec7ae0a9e9c180640.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84793f94c8d708e38748625afd0e90e845e7c00e.jpg"></article>]]></description>
             <link>https://thegrid.ai/dtg-works/new-work/index.html</link>
             <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
             <pubDate>Sun, 14 Feb 2016 22:54:23 GMT</pubDate>
