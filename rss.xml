@@ -4,8 +4,15 @@
         <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 23:02:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 23:02:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Work]]></title>
+            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d86c7e8bde5c914c214354fec7ae0a9e9c180640.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dtg-works/new-work/index.html</link>
+            <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
+            <pubDate>Mon, 15 Feb 2016 23:00:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coach Oz Project]]></title>
             <description><![CDATA[<article><h1>Coach Oz Project</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aacb2a1fdd35fbb1c41acd9928239425023d55ac.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/dtg-works/136f6ff2-3f65-40a1-a987-d9e21d0a5f61/index.html</link>
             <guid isPermaLink="false">136f6ff2-3f65-40a1-a987-d9e21d0a5f61</guid>
             <pubDate>Mon, 15 Feb 2016 23:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Work]]></title>
-            <description><![CDATA[<article><h1>New Work</h1><p>Includes front, back and sleeve designs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84793f94c8d708e38748625afd0e90e845e7c00e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/dtg-works/new-work/index.html</link>
-            <guid isPermaLink="false">60b25728-0f1f-4d12-b499-c69ef407eed5</guid>
-            <pubDate>Sun, 14 Feb 2016 22:54:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
