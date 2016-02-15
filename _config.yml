@@ -1,7 +1,7 @@
 name: DTG works
 favicon: null
-layout_spectrum: 0.41551
-typography_spectrum: 1
+layout_spectrum: 0.50415
+typography_spectrum: 0.8144
 title: null
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#171a20'
     - '#c0c9d5'
     - '#914858'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
