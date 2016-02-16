@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-15T23:11:13.199Z'
-dateModified: '2016-02-15T23:11:08.686Z'
+datePublished: '2016-02-16T04:40:24.545Z'
+dateModified: '2016-02-16T04:35:34.847Z'
 title: Coach Oz Project
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
@@ -22,6 +22,7 @@ url: coach-oz-project/index.html
 _type: Article
 
 ---
+Wrestling Coach Oz Project
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f919f6-0dd4-43de-af8e-bcddcff591de.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e612263-9395-4680-8b13-f172657c6325.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/146466c7-2408-4cc5-bc95-322acab7af20.jpg)
