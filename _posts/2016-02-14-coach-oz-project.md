@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T07:47:40.362Z'
-dateModified: '2016-03-07T01:35:11.041Z'
+datePublished: '2016-03-07T09:37:03.531Z'
+dateModified: '2016-03-07T09:36:30.040Z'
 title: Wrestling Coach Oz Project
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
