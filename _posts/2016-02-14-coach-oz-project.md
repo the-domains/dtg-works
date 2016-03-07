@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T01:25:09.688Z'
-dateModified: '2016-03-07T01:22:42.041Z'
+datePublished: '2016-03-07T01:27:13.855Z'
+dateModified: '2016-03-07T01:26:54.404Z'
 title: Coach Oz Project
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
@@ -22,8 +22,6 @@ url: coach-oz-project/index.html
 _type: Article
 
 ---
-Wrestling Coach Oz Project
-
 Graphics printed on front, back and sleeve.
 ![Wrestling Coach Oz](https://s3-us-west-2.amazonaws.com/the-grid-img/p/58e3df2d8a1a740620b9f53093fd9c250745f4e9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e612263-9395-4680-8b13-f172657c6325.jpg)
