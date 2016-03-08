@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:00:22.043Z'
-dateModified: '2016-03-08T00:00:11.711Z'
+datePublished: '2016-03-08T00:26:15.671Z'
+dateModified: '2016-03-08T00:12:45.196Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
