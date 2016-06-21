@@ -1,20 +1,4 @@
-name: DTG works
-favicon: null
-layout_spectrum: 0.36565
 typography_spectrum: 0.48961
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#4d555d'
@@ -26,4 +10,20 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.36565
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DTG works
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Apparel Printing on Demand
 purpose: []
