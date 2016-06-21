@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-21T07:27:31.695Z'
+datePublished: '2016-06-21T07:27:42.737Z'
 sourcePath: _posts/2016-02-14-coach-oz-project.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-21T07:27:31.363Z'
+dateModified: '2016-06-21T07:27:42.436Z'
 title: ''
 publisher: null
 description: Coach Oz
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 url: coach-oz-project/index.html
 _type: Article
 
