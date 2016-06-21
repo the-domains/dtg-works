@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:26:15.671Z'
-dateModified: '2016-03-08T00:12:45.196Z'
+datePublished: '2016-06-21T06:16:56.426Z'
+dateModified: '2016-06-21T06:16:56.024Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: coach-oz-project/index.html
 _type: Article
 
