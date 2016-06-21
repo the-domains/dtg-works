@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-21T07:27:31.574Z'
+datePublished: '2016-06-21T07:27:31.695Z'
 sourcePath: _posts/2016-02-14-coach-oz-project.md
 inFeed: true
 authors: []
