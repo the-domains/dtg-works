@@ -4,15 +4,8 @@
         <description><![CDATA[Apparel Printing on Demand]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 06:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 06:23:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Coach Oz Project]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e612263-9395-4680-8b13-f172657c6325.jpg">]]></description>
-            <link>https://thegrid.ai/dtg-works/coach-oz-project/index.html</link>
-            <guid isPermaLink="false">44635db9-fd63-47c0-95aa-61874a9d070a</guid>
-            <pubDate>Tue, 21 Jun 2016 06:23:34 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<article><h1></h1><p>On demand custom printing services.</p></article>]]></description>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/dtg-works/e1566c32-328d-4920-8bd8-150550e9954a/index.html</link>
             <guid isPermaLink="false">e1566c32-328d-4920-8bd8-150550e9954a</guid>
             <pubDate>Tue, 21 Jun 2016 06:16:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coach Oz Project]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e612263-9395-4680-8b13-f172657c6325.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/coach-oz-project/index.html</link>
+            <guid isPermaLink="false">44635db9-fd63-47c0-95aa-61874a9d070a</guid>
+            <pubDate>Tue, 21 Jun 2016 06:23:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
