@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-21T06:21:16.862Z'
-dateModified: '2016-06-21T06:21:16.173Z'
+datePublished: '2016-06-21T06:21:18.717Z'
+dateModified: '2016-06-21T06:21:18.260Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-14-coach-oz-project.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: coach-oz-project/index.html
 _type: Article
 
