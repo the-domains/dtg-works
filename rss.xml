@@ -7,13 +7,6 @@
         <lastBuildDate>Tue, 21 Jun 2016 06:21:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><p>On demand custom printing services.</p></article>]]></description>
-            <link>https://thegrid.ai/dtg-works/967a5a69-c4bb-45c7-9f6b-a4f904259e50/index.html</link>
-            <guid isPermaLink="false">967a5a69-c4bb-45c7-9f6b-a4f904259e50</guid>
-            <pubDate>Tue, 21 Jun 2016 06:21:26 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Coach Oz Project]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e612263-9395-4680-8b13-f172657c6325.jpg">]]></description>
             <link>https://thegrid.ai/dtg-works/coach-oz-project/index.html</link>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/dtg-works/1b995b6b-96c8-4896-a1f5-74faa1aa85e5/index.html</link>
             <guid isPermaLink="false">1b995b6b-96c8-4896-a1f5-74faa1aa85e5</guid>
             <pubDate>Tue, 21 Jun 2016 06:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DTGworks]]></title>
+            <description><![CDATA[<article><h1>DTGworks</h1><p>On demand custom printing services.</p></article>]]></description>
+            <link>https://thegrid.ai/dtg-works/967a5a69-c4bb-45c7-9f6b-a4f904259e50/index.html</link>
+            <guid isPermaLink="false">967a5a69-c4bb-45c7-9f6b-a4f904259e50</guid>
+            <pubDate>Tue, 08 Mar 2016 02:19:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
