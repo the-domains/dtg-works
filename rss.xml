@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Apparel Printing on Demand]]></title>
-        <description><![CDATA[Apparel Printing on Demand]]></description>
+        <title><![CDATA[DTG works]]></title>
+        <description><![CDATA[DTG works]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 06:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 06:36:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nahskwell France]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/dtg-works/e1566c32-328d-4920-8bd8-150550e9954a/index.html</link>
             <guid isPermaLink="false">e1566c32-328d-4920-8bd8-150550e9954a</guid>
             <pubDate>Tue, 21 Jun 2016 06:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TB Surf]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/653b07a3e8adcc0da7fc70ed2e8e5a4afebccea8.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/dtg-works/tb-surf/index.html</link>
+            <guid isPermaLink="false">1b995b6b-96c8-4896-a1f5-74faa1aa85e5</guid>
+            <pubDate>Tue, 21 Jun 2016 06:36:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ ]]></title>
