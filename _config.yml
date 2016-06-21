@@ -19,6 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: null
 name: DTG works
 cta:
   domain: null
