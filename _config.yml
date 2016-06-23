@@ -1,26 +1,30 @@
-typography_spectrum: 0.9032109549734741
+typography_spectrum: 0.3636919145938009
 content_rating:
   adult: false
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.004459558054804802
-  lightness: 0.3964458180125803
-  saturation: 0.789158075582236
-  rhythmicContrast: 0.5566379430238158
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.37090283329598606
+  lightness: 0.3438636993523687
+  saturation: 0.8403489671181887
+  rhythmicContrast: 0.5562360014300793
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5943646025843918
+layout_spectrum: 0.9339640869293362
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: John De Mello
+  email: john.dtgworks@gmail.com
+  url: www.dtgworks.com
 logo: null
 name: 'DTG works '
 cta:
