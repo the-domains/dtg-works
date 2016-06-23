@@ -4,14 +4,21 @@
         <description><![CDATA[DTG works ]]></description>
         <link>https://thegrid.ai/dtg-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 09:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 09:07:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dtg-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Coach Oz]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5ccf9d149aedad897d648b88ae796feb6abee3a.jpg">]]></description>
             <link>https://thegrid.ai/dtg-works/coach-oz-project/index.html</link>
             <guid isPermaLink="false">44635db9-fd63-47c0-95aa-61874a9d070a</guid>
-            <pubDate>Thu, 23 Jun 2016 09:02:05 GMT</pubDate>
+            <pubDate>Thu, 23 Jun 2016 09:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TB Surf]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/653b07a3e8adcc0da7fc70ed2e8e5a4afebccea8.jpg">]]></description>
+            <link>https://thegrid.ai/dtg-works/tb-surf/index.html</link>
+            <guid isPermaLink="false">1b995b6b-96c8-4896-a1f5-74faa1aa85e5</guid>
+            <pubDate>Thu, 23 Jun 2016 09:06:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nahskwell]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/dtg-works/967a5a69-c4bb-45c7-9f6b-a4f904259e50/index.html</link>
             <guid isPermaLink="false">967a5a69-c4bb-45c7-9f6b-a4f904259e50</guid>
             <pubDate>Thu, 23 Jun 2016 09:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TB Surf]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/653b07a3e8adcc0da7fc70ed2e8e5a4afebccea8.jpg">]]></description>
-            <link>https://thegrid.ai/dtg-works/tb-surf/index.html</link>
-            <guid isPermaLink="false">1b995b6b-96c8-4896-a1f5-74faa1aa85e5</guid>
-            <pubDate>Thu, 23 Jun 2016 08:55:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
