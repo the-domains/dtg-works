@@ -22,17 +22,17 @@ analytics:
   facebook: null
   twitter: null
 author:
-  name: ''
+  name: John De Mello
   email: ''
   url: ''
 logo: null
-name: "\_"
+name: "\_DTGworks"
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbeedef5-d7a5-4a40-9055-2d98f523bfe6.jpg
-title: DTGworks
+title: Custom Printing on Demand
 description: Custom Printing on Demand
 purpose: []
